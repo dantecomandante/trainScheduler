@@ -4,7 +4,7 @@
 }
 
 body {
-	background-color: lightskyblue;
+	background-color: white;
 	color: black;
 }
 
@@ -13,7 +13,6 @@ body {
 }
 
 .panel > .panel-heading {
-    background-image: none;
     background-color: #ddd;
     color: black;
 
