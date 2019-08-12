@@ -1,19 +1,5 @@
-.jumbotron {
+.container{
 	background-color: lightblue;
 
 }
 
-body {
-	background-color: white;
-	color: black;
-}
-
-.panel-heading {
-	background-color: blue;
-}
-
-.panel > .panel-heading {
-    background-color: #ddd;
-    color: black;
-
-}
